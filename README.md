@@ -1,4 +1,4 @@
-👋 Hi, My Name is Armin Irvije. I am a college student studying Computer Science, aspiring to become a software developer. 
+👋 Hi, My name is Armin Irvije. I am a college student studying computer science, aspiring to become a software developer. 
 I am profcient in Java, looking to contribute to projects to expand my programing knowledge and coding experience. 
 
 <!---
