@@ -9,3 +9,6 @@ Currently, I am looking to expand my knowledge and experience in the AI/ML field
 * Data Analysis: Pandas, NumPy, Seaborn
 * Web Development: Flask, HTML, CSS
 * Development Tools: Visual Studio Code, Git
+
+### Check out my current project!
+Siamese Neural Network for DNA Base Modification Detection: https://gitlab.com/LPCDRP/base-mod-classifier/-/tree/stage1?ref_type=heads
