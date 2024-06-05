@@ -4,8 +4,8 @@ Currently, I am looking to expand my knowledge and experience in the AI/ML field
 
 
 ## Skills
-Programming Languages: Python, Java, C++
-Machine Learning Frameworks: Pytorch
-Data Analysis: Pandas, NumPy, Seaborn
-Web Development: Flask
-Development Tools: Visual Studio Code, Git
+* Programming Languages: Python, Java, C++
+* Machine Learning Frameworks: Scikit-Learn Pytorch
+* Data Analysis: Pandas, NumPy, Seaborn
+* Web Development: Flask, HTML, CSS
+* Development Tools: Visual Studio Code, Git
