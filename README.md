@@ -7,7 +7,7 @@ I am looking to expand my knowledge and experience in the AI/ML field by taking 
 * Programming Languages: Python, SQL, Java, C++
 * Machine Learning Frameworks: Scikit-Learn, Pytorch, HuggingFace 
 * Data Analysis: Pandas, NumPy, Seaborn
-* Web Development: Flask, HTML, CSS
+* Web Development: Flask, HTML, CSS, JavaScript
 * Development Tools: Visual Studio Code, Git, Claude AI, GitLab CI/CD
 
 ### Check out my current project!
